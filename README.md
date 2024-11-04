@@ -2,6 +2,10 @@
 
 [Sales Data](sales-data)
 
+[Project Overview](project-overview)
+
+[Tools](tools)
+
 [Customer Data](customer-data)
 
 
