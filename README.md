@@ -33,10 +33,17 @@ This data analysis project aim to analyze the sales performance of a retail stor
 #### Excel
 
 Here, the following task were performed;
+
 i. Data Entry
+
 ii. Removal of duplicates
+
 iii. Calculations
+
 iv. Pivot Table for visualization
+
+![Sales data excel](https://github.com/user-attachments/assets/ec04a135-f2a9-4234-bd85-88b82283f4fd)
+
 
 
 
