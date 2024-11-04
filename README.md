@@ -44,6 +44,9 @@ iv. Pivot Table for visualization
 
 ![Sales data excel](https://github.com/user-attachments/assets/ec04a135-f2a9-4234-bd85-88b82283f4fd)
 
+![Sales Data Pivot Table](https://github.com/user-attachments/assets/520d7d24-3f93-416e-afcb-466fc42d4147)
+
+
 
 
 
