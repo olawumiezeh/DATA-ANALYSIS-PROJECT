@@ -51,6 +51,14 @@ iv. Pivot Table for visualization
 
 ![Sales Data Pivot Table](https://github.com/user-attachments/assets/520d7d24-3f93-416e-afcb-466fc42d4147)
 
+#### SQL
+
+Here,I use queries to analyse the data and answer some questions.
+
+Here is an example
+
+```Select * from [dbo].[LITA Capstone Dataset csv]```
+
 
 ##  Customer Data
 __________________________________________________________
