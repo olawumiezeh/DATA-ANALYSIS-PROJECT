@@ -59,8 +59,8 @@ Here is an example
 
 ```Select * from [dbo].[LITA Capstone Dataset csv]```
 
-```select sum (TotalSales) as ShirtTotalSales from [dbo].[LITA Capstone Dataset csv]
-where Product ='Shirt'```
+```select sum (TotalSales) as ShirtTotalSales from [dbo].[LITA Capstone Dataset csv]where Product ='Shirt' ```
+
 ##  Customer Data
 __________________________________________________________
 ### Project Overview
