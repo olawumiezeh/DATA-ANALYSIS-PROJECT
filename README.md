@@ -64,6 +64,7 @@ Here is an example
 
 ```select * from [dbo].[LITA Capstone Dataset csv]select Product, sum(TotalSales) as TotalSales from [dbo].[LITA Capstone Dataset csv] Group by Product order by 2 desc```
 
+```select Product, sum (TotalSales) as TotalRevenue from [dbo].[LITA Capstone Dataset csv] Group by Product```
 
 ##  Customer Data
 __________________________________________________________
