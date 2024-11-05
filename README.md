@@ -8,7 +8,6 @@
 
 [Customer Data](customer-data)
 
-
 This is where I document the project we were given at the end of the Data Analysis training organized by LITA
 
 We were given two data to work on, **Sales Data** and **Customer Data**
@@ -108,11 +107,17 @@ iv. Pivot Table for visualization
 
 ![Customer Data Pivot](https://github.com/user-attachments/assets/3c6e3729-ab22-458c-a60f-6056b33ad1d8)
 
+#### SQL
 
+Here,I use queries to analyse the data and answer some questions
 
+Here is an example
 
+```select * from [dbo].[CustomerData2] select Region, count(CustomerID) as TotalCustomers from [dbo].[CustomerData2] Group by Region```
 
+```select * from [dbo].[CustomerData2] select Region, count(CustomerID) as TotalCustomers from [dbo].[CustomerData2] Group by Region```
 
+```select CustomerName from [dbo].[CustomerData2] where Canceled = 'TRUE' AND Datediff (Month, SubscriptionEnd, SubscriptionStart)<=6```
 
-
+```Select SubscriptionType, Sum (Revenue) AS TotalRevenue from [dbo].[CustomerData2] group by SubscriptionType```
 
