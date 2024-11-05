@@ -52,9 +52,8 @@ iv. Pivot Table for visualization
 ![Sales Data Pivot Table](https://github.com/user-attachments/assets/520d7d24-3f93-416e-afcb-466fc42d4147)
 
 
-
 ##  Customer Data
-
+__________________________________________________________
 ### Project Overview
 
 This data analysis project aim to understand customer behavior, track subscription types, 
