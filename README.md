@@ -60,6 +60,10 @@ Here is an example
 ```Select * from [dbo].[LITA Capstone Dataset csv]```
 
 ```select sum (TotalSales) as ShirtTotalSales from [dbo].[LITA Capstone Dataset csv]where Product ='Shirt' ```
+```select count (Quantity) as NoofNorthSales from [dbo].[LITA Capstone Dataset csv]where Region = 'North' ```
+
+```select * from [dbo].[LITA Capstone Dataset csv]select Product, sum(TotalSales) as TotalSales from [dbo].[LITA Capstone Dataset csv] Group by Product order by 2 desc```
+
 
 ##  Customer Data
 __________________________________________________________
