@@ -49,7 +49,10 @@ It involves exploring the sales data to answer key questions such as
 
 - what is the sales trend?
 - which products sre top sellers?
-- what are the peak sals periods?
+- what are the peak sales periods?
+
+### Data Analysis
+Analysis is done using Excel, SQL and PowerBI
 
 #### Excel
 
