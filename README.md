@@ -18,6 +18,8 @@
 
 [Results or Findings](#results-or-findings)
 
+[Recommendations](#recommendations)
+
 
 [Customer Data](#customer-data)
 
@@ -114,6 +116,7 @@ The analysis findings are summarized as follows:
 1. Shoes is the best selling product with total quantity sold to be 14,402 and realising #613,380 as total sales
    - South Region made the highest sales of shoes which is #546,300
    - February 2024 had the highest sales of shoes which is #298,800
+   - socks made the least sales in the South Region with total sales of #133,920
 2. Socks is the least selling product with #180,785 as total sales
 3. Best performing Region is South having total sales of #927,820
    - products sold in the south are shoes, gloves and socks. Hat, Shirt and Jacket did not record any sale
@@ -127,10 +130,23 @@ The analysis findings are summarized as follows:
    - Hat made the highest sales in the West with total sales of #174,300
    - Shoes made the least sales in the West with total sales of #29,880
 7. East Region made the total sales of #485,925
-   - Products sold in the East are shirts ,hat, jacket and shoes.Socks and gloves did not record any sale
+   - Products sold in the East are shirts ,hat, jacket and shoes. Socks and gloves did not record any sale
    - Shirt made the highest sales in the East with total sales of 237,600
    - Shoes made the least sales in the East with total sales of #37,200
-**Overall**, Best Selling product is Shoes and least selling product is socks
+     
+**Overall**
+  - Best Selling product is Shoes and least selling product is socks
+  - Best selling region is South
+  - Best selling month is Febuary
+
+### Recommendations
+
+Based on the analysis, I recommend the following actions:
+- Focus on expanding and promoting shoes in the South
+- Invest more in marketing and promotions of all products in the south
+- Invest more in marketing and promotions of shirt in the North and East
+- Invest in marketing and promotions of shoes in the month of Febuary
+
    
 
 
