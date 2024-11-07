@@ -243,5 +243,17 @@ I use PowerBI for visualization and reporting of the customer data to cover Subs
 
 ### Results or Findings
 
+1. Basic Subscription Type has the total number of 16,921 customers
+  - Out of 16,921 customers that subscribed for Basic, 5,067 of them canceled their subscription in the **North**
+  - Basic has 11,854 remaining subscribers in both East and North
+2. Premium Subscription type has total number of 8446 customers
+  - Out of 8,446 customers that subscribed for Premium, 5,064 of them canceled their subscription in the **South**
+  - Premium has 3,382 remaining subscribers in the South only
+3. Standard subscription type has total number of 8420 customers
+  - Out of 8,420 customers that subscribed for standard, 5,044 of them canceled their sunscription in the **West**
+  - Standard has 3,376 remaining subscribers in the West
+4. East recorded 8488 number of customer and no one canceled their subscription in the East making East to be the Region with the highest number of remaining customers
+5. 
+
 
 
