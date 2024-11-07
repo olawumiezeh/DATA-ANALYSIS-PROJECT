@@ -157,7 +157,7 @@ Based on the analysis, I recommend the following actions:
 - Invest more in marketing and promotions of shirt in the North and East
 - Invest in marketing and promotions of shoes in the month of Febuary
 
-   
+_________________________________________________________________________________   
 
 
 
