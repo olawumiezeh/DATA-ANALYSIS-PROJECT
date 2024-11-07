@@ -27,9 +27,9 @@ This data analysis project aim to analyze the sales performance of a retail stor
   1. Data Cleaning
   2. Analysis
   3. Visualization
-- SQL: Sequeled Query Language for querying of data[Dowload here](https://learn.microsoft.com/ssms/download)
-- GitHub: For portfolio building
-- Power BI (Business Intelligence) for;
+- SQL: Sequeled Query Language for querying of data [Dowload here](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- GitHub: For portfolio building [Download Here](https://github.com/)
+- Power BI (Business Intelligence) [Donload Here](https://app.powerbi.com/)for;
   1. Data entry
   2. Data Cleaning
   3. Visualization
