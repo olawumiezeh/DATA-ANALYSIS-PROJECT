@@ -105,6 +105,18 @@ I use PowerBI for visualization and reporting of the data to cover trends and sa
 
 ![Sales powerbi 2](https://github.com/user-attachments/assets/96b63181-2176-4bbb-9a30-52664bccf107)
 
+### Findings
+
+The analysis findings are summarized as follows:
+
+1. Shoes is the best selling product with total quantity sold to be 14,402 and realising #613,380 as total sales
+   - South Region made the highest sales of shoes which is #546,300
+   -February 2024 had the highest sales of shoes which is #298,800
+4. Socks is the least selling product with #180,785 as total sales
+5. Best performing Region is South having total sales of #927,820
+   - products sold in the south are shoes, gloves and socks. Hat, shirt and jacket did not realise any sale
+
+
 
 
 
