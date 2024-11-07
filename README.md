@@ -27,6 +27,10 @@
 
 [Customer SQL](customer-sql)
 
+[Customer PowerBI](#customer-Powerbi)
+
+[Results or Findings](#results-or-findings)
+
 This is where I document the project we were given at the end of the Data Analysis training organized by LITA
 
 We were given two data to work on, **Sales Data** and **Customer Data**
@@ -227,4 +231,17 @@ Here is an example
 ```select CustomerName from [dbo].[CustomerData2] where Canceled = 'TRUE' AND Datediff (Month, SubscriptionEnd, SubscriptionStart)<=6```
 
 ```Select SubscriptionType, Sum (Revenue) AS TotalRevenue from [dbo].[CustomerData2] group by SubscriptionType```
+
+#### Customer PowerBI
+
+
+I use PowerBI for visualization and reporting of the customer data to cover Subscription Type and trends in the regions
+
+![Customer Powerbi 1](https://github.com/user-attachments/assets/ade569f7-9544-4647-aff0-6796f97b5805)
+
+![Customer Powerbi 2](https://github.com/user-attachments/assets/9592c217-2630-405a-ac69-bd3d4136b52b)
+
+### Results or Findings
+
+
 
