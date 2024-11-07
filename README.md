@@ -198,7 +198,7 @@ It involves exploring the sales data to answer key questions such as
 
 - what is the Subscription trend?
 - which Suscription type is the highest subscribed?
-- what are the peak s periods?
+- what are the peak periods?
 
 ### Data Analysis
 Analysis is done using Excel, SQL and PowerBI
