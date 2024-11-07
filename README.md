@@ -5,6 +5,7 @@
 [Project Overview](project-overview)
 
 [Tools](tools)
+[Data Cleaning and Preparation](data-Cleaning-and-Preparation)
 
 [Customer Data](customer-data)
 
