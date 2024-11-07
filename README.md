@@ -23,6 +23,10 @@
 
 [Customer Data](#customer-data)
 
+[Customer Excel](#customer-excel)
+
+[Customer SQL](customer-sql)
+
 This is where I document the project we were given at the end of the Data Analysis training organized by LITA
 
 We were given two data to work on, **Sales Data** and **Customer Data**
@@ -61,7 +65,7 @@ In the initial data preparation phase, I performed the following tasks:
 It involves exploring the sales data to answer key questions such as
 
 - what is the sales trend?
-- which products sre top sellers?
+- which products are top sellers?
 - what are the peak sales periods?
 
 ### Data Analysis
@@ -176,7 +180,25 @@ and identify key trends in cancellations and renewals of subscription for a comp
   2. Data Cleaning
   3. Visualization
 
-#### Excel
+### Data Cleaning and Preparation
+
+In the initial data preparation phase, I performed the following tasks:
+1. Data loading and inspection
+2. Handling missing values
+3. Data Cleaning and Formatting
+
+### Exploratory Data Analysis
+
+It involves exploring the sales data to answer key questions such as
+
+- what is the Subscription trend?
+- which Suscription type is the highest subscribed?
+- what are the peak s periods?
+
+### Data Analysis
+Analysis is done using Excel, SQL and PowerBI
+
+#### Customer Excel
 
 Here, the following task were performed;
 
@@ -192,7 +214,7 @@ iv. Pivot Table for visualization
 
 ![Customer Data Pivot](https://github.com/user-attachments/assets/3c6e3729-ab22-458c-a60f-6056b33ad1d8)
 
-#### SQL
+#### Customer SQL
 
 Here,I use queries to analyse the data and answer some questions
 
