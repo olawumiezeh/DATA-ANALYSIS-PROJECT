@@ -16,7 +16,7 @@
 
 [Sales PowerBI](#sales-powerbi)
 
-[Results/ Findings](#result/-findings)
+[Results or Findings](#results-or-findings)
 
 
 [Customer Data](#customer-data)
@@ -107,7 +107,7 @@ I use PowerBI for visualization and reporting of the data to cover trends and sa
 
 ![Sales powerbi 2](https://github.com/user-attachments/assets/96b63181-2176-4bbb-9a30-52664bccf107)
 
-### Results/ Findings
+### Results or Findings
 
 The analysis findings are summarized as follows:
 
