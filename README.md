@@ -103,6 +103,9 @@ I use PowerBI for visualization and reporting of the data to cover trends and sa
 
 ![Sales Powerbi 1](https://github.com/user-attachments/assets/449d0fdf-7df1-430c-8fd6-8378810f8356)
 
+![Sales powerbi 2](https://github.com/user-attachments/assets/96b63181-2176-4bbb-9a30-52664bccf107)
+
+
 
 
 
