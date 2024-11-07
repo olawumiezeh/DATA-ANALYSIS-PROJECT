@@ -8,6 +8,11 @@
 
 [Data Cleaning and Preparation](#data-Cleaning-and-Preparation)
 
+[Exploratory Data Analysis](#exploratory-data-Analysis)
+
+[Sales Excel](#sales-excel)
+
+
 [Customer Data](#customer-data)
 
 This is where I document the project we were given at the end of the Data Analysis training organized by LITA
@@ -54,7 +59,7 @@ It involves exploring the sales data to answer key questions such as
 ### Data Analysis
 Analysis is done using Excel, SQL and PowerBI
 
-#### Excel
+#### Sales Excel
 
 Here, the following task were performed;
 
