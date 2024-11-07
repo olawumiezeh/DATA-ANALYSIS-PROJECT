@@ -43,6 +43,14 @@ In the initial data preparation phase, I performed the following tasks:
 2. Handling missing values
 3. Data Cleaning and Formatting
 
+### Exploratory Data Analysis
+
+It involves exploring the sales data to answer key questions such as
+
+-what is the sales trend?
+-which products sre top sellers?
+-what are the peak sals periods?
+
 #### Excel
 
 Here, the following task were performed;
