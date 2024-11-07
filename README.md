@@ -1,13 +1,14 @@
 # COURSE PROJECT
 
-[Sales Data](sales-data)
+[Sales Data](#sales-data)
 
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Tools](tools)
-[Data Cleaning and Preparation](data-Cleaning-and-Preparation)
+[Tools](#tools)
 
-[Customer Data](customer-data)
+[Data Cleaning and Preparation](#data-Cleaning-and-Preparation)
+
+[Customer Data](#customer-data)
 
 This is where I document the project we were given at the end of the Data Analysis training organized by LITA
 
