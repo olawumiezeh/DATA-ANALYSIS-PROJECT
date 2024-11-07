@@ -19,7 +19,7 @@ We were given two data to work on, **Sales Data** and **Customer Data**
 This data analysis project aim to analyze the sales performance of a retail store. By analyzing sales performance of the store, we want to identify sales performance of the products and region and to have more understanding on the store's performance and make data driven recommendations.
 
 ### Data Source
- Sales Data: This data contains sales performance of  retail store
+ Sales Data: This data contains sales performance of a retail store. It contains the products sold by the company in different region of the country from January 2023 to August 2024.
 
 ### Tools
 
@@ -27,7 +27,7 @@ This data analysis project aim to analyze the sales performance of a retail stor
   1. Data Cleaning
   2. Analysis
   3. Visualization
-- SQL: Sequeled Query Language for querying of data
+- SQL: Sequeled Query Language for querying of data[Dowload here](https://learn.microsoft.com/ssms/download)
 - GitHub: For portfolio building
 - Power BI (Business Intelligence) for;
   1. Data entry
