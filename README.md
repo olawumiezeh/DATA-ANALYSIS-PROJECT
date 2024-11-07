@@ -253,9 +253,13 @@ I use PowerBI for visualization and reporting of the customer data to cover Subs
   - Premium has 3,382 remaining subscribers in the South only
 3. Standard subscription type has total number of 8420 customers
   - Out of 8,420 customers that subscribed for standard, 5,044 of them canceled their sunscription in the **West**
-  - Standard has 3,376 remaining subscribers in the West
+  - Standard has 3,376 remaining subscribers in the West only
 4. East recorded 8488 number of customer and no one canceled their subscription in the East making East to be the Region with the highest number of remaining customers
 
 ### Recommendations
+
+Based on the analysis, I recommend the following actions:
+
+More Basic subscription type should be made available in the North and East
 
 
