@@ -47,9 +47,9 @@ In the initial data preparation phase, I performed the following tasks:
 
 It involves exploring the sales data to answer key questions such as
 
--what is the sales trend?
--which products sre top sellers?
--what are the peak sals periods?
+- what is the sales trend?
+- which products sre top sellers?
+- what are the peak sals periods?
 
 #### Excel
 
