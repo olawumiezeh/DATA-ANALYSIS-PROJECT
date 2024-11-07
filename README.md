@@ -34,6 +34,13 @@ This data analysis project aim to analyze the sales performance of a retail stor
   2. Data Cleaning
   3. Visualization and Reporting
 
+### Data Cleaning and Preparation
+
+In the initial data preparation phase, I performed the following tasks:
+1. Data loading and inspection
+2. Handling missing values
+3. Data Cleaning and Formatting
+
 #### Excel
 
 Here, the following task were performed;
