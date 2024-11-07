@@ -20,7 +20,6 @@
 
 [Recommendations](#recommendations)
 
-
 [Customer Data](#customer-data)
 
 [Customer Excel](#customer-excel)
@@ -260,6 +259,6 @@ I use PowerBI for visualization and reporting of the customer data to cover Subs
 
 Based on the analysis, I recommend the following actions:
 
-More Basic subscription type should be made available in the North and East
-
+1. More Basic subscription type should be made available in the North and East
+2. Do promo for Premium and Standard subscription type to increase subscribers in the South and West
 
