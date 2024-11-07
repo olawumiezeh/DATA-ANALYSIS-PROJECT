@@ -12,6 +12,10 @@
 
 [Sales Excel](#sales-excel)
 
+[Sales SQL](#sales-sql)
+
+[Sales PowerBI](#sales-powerbi)
+
 
 [Customer Data](#customer-data)
 
@@ -75,7 +79,7 @@ iv. Pivot Table for visualization
 
 ![Sales Data Pivot Table](https://github.com/user-attachments/assets/520d7d24-3f93-416e-afcb-466fc42d4147)
 
-#### SQL
+#### Sales SQL
 
 Here,I use queries to analyse the data and answer some questions.
 
@@ -93,7 +97,7 @@ Here is an example
 
 ```select Product, sum (TotalSales) as TotalRevenue from [dbo].[LITA Capstone Dataset csv] Group by Product```
 
-#### PowerBI
+#### Sales PowerBI
 
 I use PowerBI for visualization and reporting of the data to cover trends and sales performance in the regions
 
