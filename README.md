@@ -32,7 +32,7 @@ This data analysis project aim to analyze the sales performance of a retail stor
 - Power BI (Business Intelligence) [Download Here](https://app.powerbi.com/)for;
   1. Data entry
   2. Data Cleaning
-  3. Visualization
+  3. Visualization and Reporting
 
 #### Excel
 
@@ -67,6 +67,15 @@ Here is an example
 ```SELECT Product from [dbo].[LITA Capstone Dataset csv] group by Product Having sum (case when OrderDate Between '2024-06-01' and '2024-08-31' then 1 else 0 end)=0```
 
 ```select Product, sum (TotalSales) as TotalRevenue from [dbo].[LITA Capstone Dataset csv] Group by Product```
+
+#### PowerBI
+
+I use PowerBI for visualization and reporting of the data to cover trends and sales performance in the regions
+
+![Sales Powerbi 1](https://github.com/user-attachments/assets/449d0fdf-7df1-430c-8fd6-8378810f8356)
+
+
+
 
 ##  Customer Data
 __________________________________________________________
